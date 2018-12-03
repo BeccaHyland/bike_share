@@ -1,6 +1,6 @@
 # BikeShare
 ### A Ruby on Rails e-commerce and database analytics site for bike commuters
-[__Visit this project on Heroku!__](https://desolate-shore-75261.herokuapp.com/)
+[__Visit this project on Heroku!__](https://bike-share-project.herokuapp.com/)
 
 ### Tools used:
 This is the final project for Module 2 of the Back End program at Turing School of Software and Design. To complete this project, our group demonstrated proficiency in the following:
