@@ -3,15 +3,16 @@
 [__Visit this project on Heroku!__](https://desolate-shore-75261.herokuapp.com/)
 
 ### Tools used:
-This is the final project for Module 2 of the Back End program at Turing School of Software and design. To complete this project, our group demonstrated proficiency in the following:
+This is the final project for Module 2 of the Back End program at Turing School of Software and Design. To complete this project, our group demonstrated proficiency in the following:
 * Ruby on Rails
-* Active Record
+* ActiveRecord
 * Postgresql database
 * Rspec
 
 ### Description
 BikeShare provides analytic information on local bike use that empowers commuters to ditch their cars. Users can access weather, past trip, and station data as well as an e-commerce platform to purchase bike accessories.
 
+### Database Schema
 <img width="1319" alt="screen shot 2018-12-03 at 11 45 23 am" src="https://user-images.githubusercontent.com/39714935/49394518-5a757b00-f6f1-11e8-9a11-f5b99fe1af48.png">
 
 ### Features
