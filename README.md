@@ -22,6 +22,10 @@ BikeShare provides analytic information on local bike use that empowers commuter
 * User authentication supported by the __bcrypt__ gem, which gives the user access to shopping cart checkout, their account information, and analytics dashboards for easy trip planning.
 * Admin authorization provides access to create, edit, and remove bike store items, bike stations, and trip or weather records. Admin can access all bike store orders for all users. 
 
+### Current Test Coverage
+This project was built using Test Driven Development.
+<img width="1423" alt="screen shot 2018-12-03 at 11 59 52 am" src="https://user-images.githubusercontent.com/39714935/49395259-3a46bb80-f6f3-11e8-9f21-f8575cd09672.png">
+
 
 
 
